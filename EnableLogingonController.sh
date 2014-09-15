@@ -1,4 +1,6 @@
 source config.cnf
+#/etc/cron.daily/logrotate
+
 set -e
 echo "---------------------------- Config logging on Controller using Syslog ----------------------------"
 
